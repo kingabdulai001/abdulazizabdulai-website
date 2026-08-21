@@ -15,3 +15,4 @@ All notable changes to this project are documented here.
 - ### Fixed
 - Theme preference no longer resets to dark on page refresh (race condition between localStorage read/write)
 - Suppressed expected hydration warning on <html> element caused by theme script running before React hydration
+- 
